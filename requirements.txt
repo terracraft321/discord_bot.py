@@ -4,3 +4,4 @@ asyncio
 timeago
 yarl<1.2
 pytz
+wikipedia
